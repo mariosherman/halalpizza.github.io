@@ -843,7 +843,7 @@ body {
   position: absolute;
   height: 100%;
   width: 0%;
-  background: #e00000;
+  background: #004f1a;
   top: 0;
   left: 0;
   z-index: -1;
@@ -856,7 +856,7 @@ body {
 }
 
 #contact-us .cs-submit {
-  background: #1d1a1b;
+  background: #e00000;
   color: #FAF9F6;
   width: 100%;
   border: none;
